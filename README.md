@@ -1,6 +1,11 @@
 # todo_list
 
-A new Flutter application.
+An app which help you keep a track of the tasks to do. 
+
+Once the task in completed, the task can be checked off.
+
+
+
 
 ## Getting Started
 
