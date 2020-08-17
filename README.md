@@ -5,6 +5,8 @@ An app which help you keep a track of the tasks to do.
 Once the task in completed, the task can be checked off.
 
 
+# Demo
+![](Demo/demo1.gif)
 
 
 ## Getting Started
